@@ -63,7 +63,9 @@ int main()
 		c = sqrt(b);
 		printf ("La raíz cuadrada de %f es: %f\n", b, c);
 		break;
-		
+	case 7: 
+		printf("Vuelva pronto");
+		break;
 		
 	default:
 		printf("No está puesta correctamente la unidad\n");
